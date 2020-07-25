@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Academic</title>
+    <link>https://wangy17.github.io/authors/</link>
+      <atom:link href="https://wangy17.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jul 2020 11:52:47 +0800</lastBuildDate>
+    <image>
+      <url>https://wangy17.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://wangy17.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Haochen Wang</title>
+      <link>https://wangy17.github.io/author/haochen-wang/</link>
+      <pubDate>Fri, 24 Jul 2020 11:52:47 +0800</pubDate>
+      <guid>https://wangy17.github.io/author/haochen-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lei Wei</title>
+      <link>https://wangy17.github.io/author/lei-wei/</link>
+      <pubDate>Fri, 24 Jul 2020 11:52:47 +0800</pubDate>
+      <guid>https://wangy17.github.io/author/lei-wei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liyang Liu</title>
+      <link>https://wangy17.github.io/author/liyang-liu/</link>
+      <pubDate>Fri, 24 Jul 2020 11:52:47 +0800</pubDate>
+      <guid>https://wangy17.github.io/author/liyang-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shuailin Li</title>
+      <link>https://wangy17.github.io/author/shuailin-li/</link>
+      <pubDate>Fri, 24 Jul 2020 11:52:47 +0800</pubDate>
+      <guid>https://wangy17.github.io/author/shuailin-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaowo Wang</title>
+      <link>https://wangy17.github.io/author/xiaowo-wang/</link>
+      <pubDate>Fri, 24 Jul 2020 11:52:47 +0800</pubDate>
+      <guid>https://wangy17.github.io/author/xiaowo-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ye Wang</title>
+      <link>https://wangy17.github.io/author/ye-wang/</link>
+      <pubDate>Fri, 24 Jul 2020 11:52:47 +0800</pubDate>
+      <guid>https://wangy17.github.io/author/ye-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wang Ye</title>
+      <link>https://wangy17.github.io/author/wang-ye/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wangy17.github.io/author/wang-ye/</guid>
+      <description>&lt;p&gt;With the rapid development of artificial intelligence technology, intelligent algorithms have shown great potential in the mining of complex biological characteristics and the design of biomolecules. Synthetic biomolecules have been widely used in areas such as metabolic engineering and gene therapy.
+The intersection of artificial intelligence and synthetic biotechnology has shown revolutionary and significant development potential.&lt;/p&gt;
+&lt;p&gt;Wang Ye is a third-year phD student in Tsinghua University. Her research interests is mainly intersecting artificial intelligence and synthetic biotechnology to design synthetic genetic elements. Combining the high-throughput biological experiments with AI-based design to help improve the design efficiency of synthetic promoters.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

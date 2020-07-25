@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuailin Li | Academic</title>
+    <link>https://wangy17.github.io/author/shuailin-li/</link>
+      <atom:link href="https://wangy17.github.io/author/shuailin-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuailin Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jul 2020 11:52:47 +0800</lastBuildDate>
+    <image>
+      <url>https://wangy17.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Shuailin Li</title>
+      <link>https://wangy17.github.io/author/shuailin-li/</link>
+    </image>
+    
+    <item>
+      <title>Synthetic Promoter Design in Escherichia Coli Based on a Deep Generative Network</title>
+      <link>https://wangy17.github.io/publication/synthetic-promoter-design-in-escherichia-coli-based-on-a-deep-generative-network/</link>
+      <pubDate>Fri, 24 Jul 2020 11:52:47 +0800</pubDate>
+      <guid>https://wangy17.github.io/publication/synthetic-promoter-design-in-escherichia-coli-based-on-a-deep-generative-network/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
